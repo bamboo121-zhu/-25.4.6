@@ -1,1 +1,2 @@
-# -25.4.6
+从这周开始要学跑开源啦，鉴于不太了解这领域吧，先找了些视频看了看
+（https://www.bilibili.com/video/BV1VC4y1F7DG/?-Arouter=story&buvid=XUFC47AF0118CE8A9C7E1C7E2D24BA1E0E46C&from_spmid=united.player-video-detail.0.0&is_story_h5=false&mid=6SX7pxvQ2vrMi%2BMuWZRuuH8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5033ecfb-524c-464e-98e4-d2cd1229fd0f&share_source=QQ&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1743949203&unique_k=pkGJEKr&up_id=67079745）
